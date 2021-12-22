@@ -1,2 +1,11 @@
 /node_modules/
 /venv/
+/geckodriver.log
+/.idea/aws.xml
+/.idea/webscraping.iml
+/.idea/vcs.xml
+/result.pdf
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
